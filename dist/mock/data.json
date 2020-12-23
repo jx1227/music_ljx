@@ -1,0 +1,38 @@
+[{
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "Papa Was a Rodeo",
+        "album": "Chilled Ballads",
+        "singer": "Sara Lov",
+        "duration": 301,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "杀死那个石家庄人",
+        "album": "万能青年旅店",
+        "singer": "夜难熬吗",
+        "duration": 213,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "敢爱敢做",
+        "album": "影视金曲16首",
+        "singer": "林子祥",
+        "duration": 293,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "一起走过的日子",
+        "album": "粤语精选",
+        "singer": "刘德华",
+        "duration": 235,
+        "isLike": false
+    }
+
+]
